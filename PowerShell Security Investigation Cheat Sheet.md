@@ -4,18 +4,6 @@ This cheat sheet, based on the article "Using PowerShell for Security Investigat
 
 ---
 
-## Table of Contents
-
-1. [Setting Up a Secure Environment](https://grok.com/chat/1923f6e4-82fe-4f45-b232-f44298294bc5#setting-up-a-secure-environment)
-2. [Log Analysis & Threat Detection](https://grok.com/chat/1923f6e4-82fe-4f45-b232-f44298294bc5#log-analysis--threat-detection)
-3. [Incident Response](https://grok.com/chat/1923f6e4-82fe-4f45-b232-f44298294bc5#incident-response)
-4. [Forensic Analysis](https://grok.com/chat/1923f6e4-82fe-4f45-b232-f44298294bc5#forensic-analysis)
-5. [Automation and Scripting](https://grok.com/chat/1923f6e4-82fe-4f45-b232-f44298294bc5#automation-and-scripting)
-6. [Quick Commands](https://grok.com/chat/1923f6e4-82fe-4f45-b232-f44298294bc5#quick-commands)
-7. [Basic Forensic Collection Script](https://grok.com/chat/1923f6e4-82fe-4f45-b232-f44298294bc5#basic-forensic-collection-script)
-
----
-
 ## Setting Up a Secure Environment
 
 ### Set Execution Policy
